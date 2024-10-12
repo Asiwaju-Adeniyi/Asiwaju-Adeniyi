@@ -2,7 +2,7 @@
 - 👀 I’m interested in communications at the intersection of GPUs and Blockchains. 
 - 🌱 I’m currently learning C++ and CUDA
 - 💞️ I’m looking to collaborate on CUDA projects at the technial communications level: research, writing, editing, marketing.
-- 📫 How to reach me: makindeadeniyi1@gmail.com, [LinkedIn]([url](https://www.linkedin.com/in/adeniyi-makinde-marketing-communications/)), and [Twitter](@AsiwajuMak) 
+- 📫 How to reach me: makindeadeniyi1@gmail.com, LinkedIn, and Twitter 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love Chess. 
 
