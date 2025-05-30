@@ -1,7 +1,7 @@
 - Hi, I’m Adeniyi.
 - I do parallel computing using C++ and CUDA. 
 - I’m looking to collaborate on parallel computing projects. 
-- How to reach me: makindeadeniyi1@gmail.com, LinkedIn, and Twitter 
+- Reach me: makindeadeniyi1@gmail.com.
 - Pronouns: He/Him/His
 - Fun fact: I love Chess. 
 
